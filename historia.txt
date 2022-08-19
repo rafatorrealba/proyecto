@@ -1,3 +1,5 @@
 Hola, mi nombre es Rafael 
 
 Estoy aprendiendo Git
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam rem, odit ducimus deserunt modi quas ad temporibus facere reiciendis tenetur porro dolore distinctio quidem consectetur laudantium animi officia ea nemo!
