@@ -10,4 +10,7 @@ p {
 .contenedor {
     width: 90%;
     margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
 }
